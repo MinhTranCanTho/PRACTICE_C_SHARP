@@ -1,0 +1,13 @@
+D:\Git\PRACTICE_C_SHARP\lesson2\lesson2\bin\Debug\netcoreapp3.1\lesson2.exe
+D:\Git\PRACTICE_C_SHARP\lesson2\lesson2\bin\Debug\netcoreapp3.1\lesson2.deps.json
+D:\Git\PRACTICE_C_SHARP\lesson2\lesson2\bin\Debug\netcoreapp3.1\lesson2.runtimeconfig.json
+D:\Git\PRACTICE_C_SHARP\lesson2\lesson2\bin\Debug\netcoreapp3.1\lesson2.runtimeconfig.dev.json
+D:\Git\PRACTICE_C_SHARP\lesson2\lesson2\bin\Debug\netcoreapp3.1\lesson2.dll
+D:\Git\PRACTICE_C_SHARP\lesson2\lesson2\bin\Debug\netcoreapp3.1\lesson2.pdb
+D:\Git\PRACTICE_C_SHARP\lesson2\lesson2\obj\Debug\netcoreapp3.1\lesson2.csproj.AssemblyReference.cache
+D:\Git\PRACTICE_C_SHARP\lesson2\lesson2\obj\Debug\netcoreapp3.1\lesson2.AssemblyInfoInputs.cache
+D:\Git\PRACTICE_C_SHARP\lesson2\lesson2\obj\Debug\netcoreapp3.1\lesson2.AssemblyInfo.cs
+D:\Git\PRACTICE_C_SHARP\lesson2\lesson2\obj\Debug\netcoreapp3.1\lesson2.csproj.CoreCompileInputs.cache
+D:\Git\PRACTICE_C_SHARP\lesson2\lesson2\obj\Debug\netcoreapp3.1\lesson2.dll
+D:\Git\PRACTICE_C_SHARP\lesson2\lesson2\obj\Debug\netcoreapp3.1\lesson2.pdb
+D:\Git\PRACTICE_C_SHARP\lesson2\lesson2\obj\Debug\netcoreapp3.1\lesson2.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Git\PRACTICE_C_SHARP\Custom_Attribute\Custom_Attribute\obj\Debug\netcoreapp3.1\Custom_Attribute.csproj.AssemblyReference.cache
+D:\Git\PRACTICE_C_SHARP\Custom_Attribute\Custom_Attribute\obj\Debug\netcoreapp3.1\Custom_Attribute.AssemblyInfoInputs.cache
+D:\Git\PRACTICE_C_SHARP\Custom_Attribute\Custom_Attribute\obj\Debug\netcoreapp3.1\Custom_Attribute.AssemblyInfo.cs
+D:\Git\PRACTICE_C_SHARP\Custom_Attribute\Custom_Attribute\obj\Debug\netcoreapp3.1\Custom_Attribute.csproj.CoreCompileInputs.cache
+D:\Git\PRACTICE_C_SHARP\Custom_Attribute\Custom_Attribute\bin\Debug\netcoreapp3.1\Custom_Attribute.exe
+D:\Git\PRACTICE_C_SHARP\Custom_Attribute\Custom_Attribute\bin\Debug\netcoreapp3.1\Custom_Attribute.deps.json
+D:\Git\PRACTICE_C_SHARP\Custom_Attribute\Custom_Attribute\bin\Debug\netcoreapp3.1\Custom_Attribute.runtimeconfig.json
+D:\Git\PRACTICE_C_SHARP\Custom_Attribute\Custom_Attribute\bin\Debug\netcoreapp3.1\Custom_Attribute.runtimeconfig.dev.json
+D:\Git\PRACTICE_C_SHARP\Custom_Attribute\Custom_Attribute\bin\Debug\netcoreapp3.1\Custom_Attribute.dll
+D:\Git\PRACTICE_C_SHARP\Custom_Attribute\Custom_Attribute\bin\Debug\netcoreapp3.1\Custom_Attribute.pdb
+D:\Git\PRACTICE_C_SHARP\Custom_Attribute\Custom_Attribute\obj\Debug\netcoreapp3.1\Custom_Attribute.dll
+D:\Git\PRACTICE_C_SHARP\Custom_Attribute\Custom_Attribute\obj\Debug\netcoreapp3.1\Custom_Attribute.pdb
+D:\Git\PRACTICE_C_SHARP\Custom_Attribute\Custom_Attribute\obj\Debug\netcoreapp3.1\Custom_Attribute.genruntimeconfig.cache
