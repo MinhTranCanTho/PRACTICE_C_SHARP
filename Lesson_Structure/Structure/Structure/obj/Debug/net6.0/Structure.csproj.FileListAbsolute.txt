@@ -1,0 +1,16 @@
+D:\Git\PRACTICE_C_SHARP\Lesson_Structure\Structure\Structure\bin\Debug\net6.0\Structure.exe
+D:\Git\PRACTICE_C_SHARP\Lesson_Structure\Structure\Structure\bin\Debug\net6.0\Structure.deps.json
+D:\Git\PRACTICE_C_SHARP\Lesson_Structure\Structure\Structure\bin\Debug\net6.0\Structure.runtimeconfig.json
+D:\Git\PRACTICE_C_SHARP\Lesson_Structure\Structure\Structure\bin\Debug\net6.0\Structure.dll
+D:\Git\PRACTICE_C_SHARP\Lesson_Structure\Structure\Structure\bin\Debug\net6.0\ref\Structure.dll
+D:\Git\PRACTICE_C_SHARP\Lesson_Structure\Structure\Structure\bin\Debug\net6.0\Structure.pdb
+D:\Git\PRACTICE_C_SHARP\Lesson_Structure\Structure\Structure\obj\Debug\net6.0\Structure.csproj.AssemblyReference.cache
+D:\Git\PRACTICE_C_SHARP\Lesson_Structure\Structure\Structure\obj\Debug\net6.0\Structure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\PRACTICE_C_SHARP\Lesson_Structure\Structure\Structure\obj\Debug\net6.0\Structure.AssemblyInfoInputs.cache
+D:\Git\PRACTICE_C_SHARP\Lesson_Structure\Structure\Structure\obj\Debug\net6.0\Structure.AssemblyInfo.cs
+D:\Git\PRACTICE_C_SHARP\Lesson_Structure\Structure\Structure\obj\Debug\net6.0\Structure.ImplicitNamespaceImports.cs
+D:\Git\PRACTICE_C_SHARP\Lesson_Structure\Structure\Structure\obj\Debug\net6.0\Structure.csproj.CoreCompileInputs.cache
+D:\Git\PRACTICE_C_SHARP\Lesson_Structure\Structure\Structure\obj\Debug\net6.0\Structure.dll
+D:\Git\PRACTICE_C_SHARP\Lesson_Structure\Structure\Structure\obj\Debug\net6.0\ref\Structure.dll
+D:\Git\PRACTICE_C_SHARP\Lesson_Structure\Structure\Structure\obj\Debug\net6.0\Structure.pdb
+D:\Git\PRACTICE_C_SHARP\Lesson_Structure\Structure\Structure\obj\Debug\net6.0\Structure.genruntimeconfig.cache
