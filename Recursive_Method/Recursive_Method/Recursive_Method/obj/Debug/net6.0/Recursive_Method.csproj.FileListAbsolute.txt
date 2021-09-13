@@ -1,0 +1,16 @@
+D:\Git\PRACTICE_C_SHARP\Recursive_Method\Recursive_Method\Recursive_Method\bin\Debug\net6.0\Recursive_Method.exe
+D:\Git\PRACTICE_C_SHARP\Recursive_Method\Recursive_Method\Recursive_Method\bin\Debug\net6.0\Recursive_Method.deps.json
+D:\Git\PRACTICE_C_SHARP\Recursive_Method\Recursive_Method\Recursive_Method\bin\Debug\net6.0\Recursive_Method.runtimeconfig.json
+D:\Git\PRACTICE_C_SHARP\Recursive_Method\Recursive_Method\Recursive_Method\bin\Debug\net6.0\Recursive_Method.dll
+D:\Git\PRACTICE_C_SHARP\Recursive_Method\Recursive_Method\Recursive_Method\bin\Debug\net6.0\ref\Recursive_Method.dll
+D:\Git\PRACTICE_C_SHARP\Recursive_Method\Recursive_Method\Recursive_Method\bin\Debug\net6.0\Recursive_Method.pdb
+D:\Git\PRACTICE_C_SHARP\Recursive_Method\Recursive_Method\Recursive_Method\obj\Debug\net6.0\Recursive_Method.csproj.AssemblyReference.cache
+D:\Git\PRACTICE_C_SHARP\Recursive_Method\Recursive_Method\Recursive_Method\obj\Debug\net6.0\Recursive_Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\PRACTICE_C_SHARP\Recursive_Method\Recursive_Method\Recursive_Method\obj\Debug\net6.0\Recursive_Method.AssemblyInfoInputs.cache
+D:\Git\PRACTICE_C_SHARP\Recursive_Method\Recursive_Method\Recursive_Method\obj\Debug\net6.0\Recursive_Method.AssemblyInfo.cs
+D:\Git\PRACTICE_C_SHARP\Recursive_Method\Recursive_Method\Recursive_Method\obj\Debug\net6.0\Recursive_Method.ImplicitNamespaceImports.cs
+D:\Git\PRACTICE_C_SHARP\Recursive_Method\Recursive_Method\Recursive_Method\obj\Debug\net6.0\Recursive_Method.csproj.CoreCompileInputs.cache
+D:\Git\PRACTICE_C_SHARP\Recursive_Method\Recursive_Method\Recursive_Method\obj\Debug\net6.0\Recursive_Method.dll
+D:\Git\PRACTICE_C_SHARP\Recursive_Method\Recursive_Method\Recursive_Method\obj\Debug\net6.0\ref\Recursive_Method.dll
+D:\Git\PRACTICE_C_SHARP\Recursive_Method\Recursive_Method\Recursive_Method\obj\Debug\net6.0\Recursive_Method.pdb
+D:\Git\PRACTICE_C_SHARP\Recursive_Method\Recursive_Method\Recursive_Method\obj\Debug\net6.0\Recursive_Method.genruntimeconfig.cache
